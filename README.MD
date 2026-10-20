@@ -26,7 +26,12 @@ TechNova is a responsive landing page for a fictional technology company. It int
 ![TechNova laptop screenshot](desktop-screenshot.png)
 
 ## What I Learned
-Through this project, I practised building responsive layouts using Flexbox and CSS Grid, applying mobile-first CSS, and testing different screen sizes with Chrome DevTools.
+Through this project, I practised building responsive layouts using Flexbox and CSS Grid, applying mobile-first CSS, and testing different screen sizes with Chrome DevTools.## Responsive Testing
+
+Tested using Chrome DevTools at:
+- 390px — mobile
+- 768px — tablet
+- 1366px — laptop
 
 ## Author
 FEDs Academy Web development Student
